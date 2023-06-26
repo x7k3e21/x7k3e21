@@ -1,14 +1,16 @@
 
+<img src="./assets/character.png" width="30%" align="right">
+
 ```php
 x7k3e21@github: ~ $ userinfo
-───────────────────────────────────────────
+───────────────────────────────────────────────────────────────
 personal  •
 pronouns  • he/him 
 
 languages • Node.js, Python, C++, NASM, Java, Swift, GDScript
 
 skills    • Express.js, discord.js, grammY, Gatsby, 
-             discord.py, OpenGL, GLFW, GLEW, SFML, LWJGL
+            discord.py, OpenGL, GLFW, GLEW, SFML, LWJGL
 
 email     • 
 
