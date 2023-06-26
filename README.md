@@ -1,5 +1,5 @@
 
-<img src="./assets/character.png" width="30%" align="right">
+<img src="./assets/character.png" width="27%" align="right">
 
 ```php
 x7k3e21@github: ~ $ userinfo
