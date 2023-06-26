@@ -3,7 +3,7 @@
     <h2>Hi everyone, I'm x7k3e21! 🎶</h2>
 </div>
 
-<img src="./assets/character.png" width="27%" align="right">
+<img src="./assets/character.png" width="26%" align="right">
 
 ```php
 x7k3e21@github: ~ $ userinfo
