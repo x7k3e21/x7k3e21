@@ -1,4 +1,10 @@
 
+<div align="center">
+    <h2>Hi everyone, I'm x7k3e21! 🎶</h2>
+</div>
+
+---
+
 <img src="./assets/character.png" width="27%" align="right">
 
 ```php
@@ -19,3 +25,6 @@ telegram  • x7k3e21
 
 steam     • x7k3e21
 ```
+
+---
+## 
