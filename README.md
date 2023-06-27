@@ -3,7 +3,7 @@
     <h2>Hi everynyan, I'm x7k3e21! 🎶</h2>
 </div>
 
-<img src="./assets/character.png" height="377px" align="right">
+<img src="./assets/character.png" height="273.5px" align="right">
 
 ```
 x7k3e21@github: ~ $ userinfo
